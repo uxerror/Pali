@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="CardResource" load_steps=5 format=3 uid="uid://dfpvigehwf5ey"]
 
-[ext_resource type="Script" path="res://Cards/CardRelation.gd" id="1_j6psy"]
-[ext_resource type="Script" path="res://Cards/CardResource.gd" id="2_6ypnh"]
+[ext_resource type="Script" uid="uid://rlp6rgce7dua" path="res://Cards/CardRelation.gd" id="1_j6psy"]
+[ext_resource type="Script" uid="uid://cs73rh86vgai8" path="res://Cards/CardResource.gd" id="2_6ypnh"]
 [ext_resource type="Texture2D" uid="uid://c42hsgyfev28j" path="res://Cards/Assets/Chemist.png" id="3_5jwbw"]
 
 [sub_resource type="Resource" id="Resource_3kmlv"]

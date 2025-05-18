@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="CardResource" load_steps=5 format=3 uid="uid://bhog10m0ttgay"]
 
-[ext_resource type="Script" path="res://Cards/CardRelation.gd" id="1_xcidl"]
-[ext_resource type="Script" path="res://Cards/CardResource.gd" id="2_e8nv3"]
+[ext_resource type="Script" uid="uid://rlp6rgce7dua" path="res://Cards/CardRelation.gd" id="1_xcidl"]
+[ext_resource type="Script" uid="uid://cs73rh86vgai8" path="res://Cards/CardResource.gd" id="2_e8nv3"]
 [ext_resource type="Texture2D" uid="uid://c0lkkt5f8dj7s" path="res://Cards/Assets/AerospaceEngineer.png" id="3_vcfk8"]
 
 [sub_resource type="Resource" id="Resource_6i703"]

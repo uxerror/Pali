@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://c1vg7u6rg0yd6"]
 
-[ext_resource type="Script" path="res://Scenes/HUD/HUD.gd" id="1_iuu84"]
+[ext_resource type="Script" uid="uid://c48vncc4ghkys" path="res://Scenes/HUD/HUD.gd" id="1_iuu84"]
 [ext_resource type="Theme" uid="uid://di0p2ll65b4pb" path="res://PaliTheme.tres" id="1_o1klu"]
 
 [node name="HUD" type="Control" node_paths=PackedStringArray("title_label", "player_1_label", "player_2_label")]

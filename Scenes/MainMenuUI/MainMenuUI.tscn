@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://qqr31gwogfkg"]
 
-[ext_resource type="Script" path="res://Scenes/MainMenuUI/MainMenuUI.gd" id="1_4kj3h"]
+[ext_resource type="Script" uid="uid://dfwexwkd2qasd" path="res://Scenes/MainMenuUI/MainMenuUI.gd" id="1_4kj3h"]
 [ext_resource type="Theme" uid="uid://di0p2ll65b4pb" path="res://PaliTheme.tres" id="1_8t26l"]
 
 [node name="MainMenuUI" type="Control" node_paths=PackedStringArray("name_input", "join_btn", "cancel_btn", "status_label")]
